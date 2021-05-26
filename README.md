@@ -1,5 +1,6 @@
 # Articles
 <a href="https://habr.com/ru/post/534270/">Идентификация андроид устройств (и не только)</a>
+<a href="https://www.hindawi.com/journals/scn/2019/6045251/">Идентификация устройств (rocketsience)</a>
 
 # Libs
 <a href="https://github.com/fingerprintjs/fingerprintjs">Fingerprint.js</a></br>
